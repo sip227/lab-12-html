@@ -1,0 +1,7 @@
+For this page, depending on the topic can be seen as a portfolio or gallery page.
+I would like to show the example of works I might have and be able to hover over 
+to show the description of the work with the help of javascript. It might be hard to 
+do the same with writing pieces unless there is image art and what pops out instead is the
+actually writing so it is easier for the user to see examples of my work. I'm still thinking 
+about examples about my work, either debating about uploading images of some projects or past poems.
+
